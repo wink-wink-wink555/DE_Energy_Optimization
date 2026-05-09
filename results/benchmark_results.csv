@@ -1,0 +1,3 @@
+function,dim,theoretical_optimum,best_fitness,abs_error,n_eval,time_seconds,population_size,max_generations,F,CR,seed
+Sphere,30,0.0,2.5942294661608038e-08,2.5942294661608038e-08,25050,0.575,50,500,0.5,0.9,42
+Rastrigin,30,0.0,196.42194064728835,196.42194064728835,25050,0.6243,50,500,0.5,0.9,42
